@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Build-Jdk: 1.7.0_17
+Implementation-Title: PNGJ
+Implementation-Version: 2.1.1
+Implementation-Vendor-Id: ar.com.hjg
+Built-By: hjg.com.ar@gmail.com
+
